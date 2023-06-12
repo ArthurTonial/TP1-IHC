@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">P1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Parte 1 - IHC</string>
+    <string name="second_fragment_label">Mensagem Atividade 2</string>
+    <string name="third_fragment_label">Acelerometro Atividade 3</string>
+    <string name="previous">Previous</string>
+    <string name="enter_a_number">Enter a Number</string>
+    <string name="send">Send</string>
+    <string name="sum">Sum</string>
+    <string name="result">Result</string>
+    <string name="enter_a_text">Enter a Text</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="posicao_alterada">Posição Alterada!</string>
+</resources>
