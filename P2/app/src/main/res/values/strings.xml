@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P2</string>
+    <string name="first_fragment_label">Sensores</string>
+    <string name="light_value">sensor de luz</string>
+    <string name="psi_value">psi value</string>
+    <string name="gps">GPS</string>
+</resources>
